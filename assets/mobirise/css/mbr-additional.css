@@ -794,13 +794,13 @@ body {
   overflow-x: hidden !important;
 }
 .cid-r8QwkndcCg .mbr-section-title {
-  color: #ffffff;
+  color: #444444;
 }
 .cid-r8QwkndcCg .mbr-section-title span {
   color: #ffbc00;
 }
 .cid-r8QwkndcCg .mbr-text {
-  color: #ffffff;
+  color: #c1c1c1;
   letter-spacing: 5px;
   font-weight: 100;
 }
@@ -815,7 +815,7 @@ body {
   z-index: 0;
   animation-duration: 30s;
   -webkit-animation-duration: 30s !important;
-  background-image: url("../../../assets/images/test-banner-1-2000x1414.jpg");
+  background-image: url("../../../assets/images/test-banner-2-2000x1200.jpg");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
   -o-animation: scroll-wrapper linear infinite;

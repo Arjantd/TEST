@@ -819,6 +819,11 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
 }
+.cid-r8QsNPmn0X {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
 .cid-r8OYKVHMhy {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1287,4 +1292,16 @@ body {
 .cid-r8P4DUT6gy .nav-link:hover,
 .cid-r8P4DUT6gy .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-r8QtS01uF0 {
+  background: #ffffff;
+}
+.cid-r8QtS01uF0 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r8QtS01uF0 .video-block {
+    width: 100% !important;
+  }
 }

@@ -800,7 +800,7 @@ body {
   color: #ffbc00;
 }
 .cid-r8QwkndcCg .mbr-text {
-  color: #c1c1c1;
+  color: #000000;
   letter-spacing: 5px;
   font-weight: 100;
 }
@@ -813,9 +813,9 @@ body {
   position: absolute;
   background-repeat: repeat;
   z-index: 0;
-  animation-duration: 30s;
-  -webkit-animation-duration: 30s !important;
-  background-image: url("../../../assets/images/test-banner-2-2000x1200.jpg");
+  animation-duration: 28s;
+  -webkit-animation-duration: 28s !important;
+  background-image: url("../../../assets/images/test-banner-1-2000x1200.jpg");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
   -o-animation: scroll-wrapper linear infinite;
